@@ -1,4 +1,4 @@
-import streamlit as 
+import streamlit as st
 
 st.title("Hello and welcome to the Fastest Bear's World.") 
 st.write(
